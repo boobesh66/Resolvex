@@ -1,0 +1,6 @@
+{
+  "name": "ResolveX",
+  "description": "Customer Complaint Management System demonstrating PriorityQueue, ArrayList, and HashMap data structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
